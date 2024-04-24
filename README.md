@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋+I'm+MD+JOY;" />
 </h1>
 <h1 align="center">Passionate Frontend Developer | JavaScript</h1>
-<h3>About me</h3>
+<h3>🚀 About me</h3>
 ✅ Hey, I’m a web developer with a solid foundation in FRONT-END development--<br/> 
 ✅ I believe in clean, efficient code. I have a good understanding of --💛JAVASCRIPT💛--<br/> 
 
@@ -24,7 +24,7 @@
 </div>
 <hr/>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">☕ Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/mdjoy4646" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdjoy4646" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mdjoy46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdjoy46" height="30" width="40" /></a>
