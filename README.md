@@ -13,7 +13,7 @@
     
 🌱 I’m currently learning **Advanced JavaScript**
 
-👨‍💻 All of my projects are available at [https://www.linkedin.com/in/mdjoy46/](https://www.linkedin.com/in/mdjoy46/)
+👨‍💻 All of my projects are available at **[https://www.linkedin.com/in/mdjoy46/](https://www.linkedin.com/in/mdjoy46/)**
 
 💬 Ask me about **HTML, CSS(SASS), JavaScript**
 
