@@ -44,8 +44,9 @@
 
 <div align=center>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ph0enix46&show_icons=true&locale=en&layout=compact" alt="ph0enix46" />
+  <br/>
+  <br/>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=ph0enix46&show_icons=true&locale=en" alt="ph0enix46" />
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ph0enix46&" alt="ph0enix46" />
 </div>
-
 <hr/>
