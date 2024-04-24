@@ -41,7 +41,24 @@
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<p><img align="left" width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=pH0enix46&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="pH0enix46" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pH0enix46&show_icons=true&locale=en&theme=tokyonight&rank_icon=github&border_radius=10" alt="pH0enix46" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pH0enix46&&theme=tokyonight" alt="pH0enix46" /></p>
+
+<div align="left">
+    
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pH0enix46&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
+   
+</div>
+
+<div align="center">
+    
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pH0enix46&show_icons=true&theme=tokyonight&rank_icon=github&border_radius) 
+
+</div>
+
+
+<div align="center">
+    
+![GitHub streak stats](https://streak-stats.demolab.com/?user=pH0enix46&theme=tokyonight)  
+    
+</div>
+
 <hr/>
