@@ -20,19 +20,16 @@
 📫 How to reach me **mdjoy.javascipt@gmail.com**
 
 ⚡ Fun fact **I Love Games😊, my favorite one is NFS**
+
 </div>
- 
-<div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
+<hr/>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/mdjoy4646" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdjoy4646" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mdjoy46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdjoy46" height="30" width="40" /></a>
+<a href="https://fb.com/mdjoy46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdjoy46" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ph0enix46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ph0enix46" height="30" width="40" /></a>
+</p>
 
  <hr/>
  
