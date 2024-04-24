@@ -12,7 +12,7 @@
 ✅ I believe in clean, efficient code. I have a good understanding of (HTML, CSS(SASS), and JavaScript). 
 
 ✅ Thanks to my teacher [Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/) who taught me all the skills I mentioned. And also thanks, [Udemy](https://www.udemy.com/). Also thanks to my beautiful Family.<br/>
-✅ I’m always on the lookout to connect with like-minded individuals and teams where I can contribute, learn, and grow. Feel free to hit me up for interesting projects, collaboration, or just a chat about the latest in web development. I want to develop my skills with you guys.
+✅ I’m always on the lookout to connect with like-minded individuals and teams where I can contribute, learn, and grow. I want to develop my skills with you guys.
 <hr/>
 
 <div align="left">
