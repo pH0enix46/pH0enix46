@@ -6,7 +6,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋+I'm+MD+JOY;" />
 </h1>
-<h1 align="center">Passionate Frontend Developer | HTML, CSS(SASS), JavaScript</h1>
+<h1 align="center">Passionate Frontend Developer | JavaScript</h1>
 <h3>About me</h3>
 😊Hey, I’m a web developer with a solid foundation in FRONT-END development. My journey started with a BSc in Computer Science & Engineering, and since then, I’ve been on an exciting path of continuous learning web development. <br/> 
 🚀 My career is a blend of building responsive websites, crafting user-friendly interfaces, and creating efficient solutions.<br/>
