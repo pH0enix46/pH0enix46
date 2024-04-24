@@ -11,7 +11,7 @@
 ✅ Hey, I’m a web developer with a solid foundation in FRONT-END development. My journey started with a BSc in Computer Science & Engineering, and since then, I’ve been on an exciting path of continuous learning web development. <br/> 
 ✅ I believe in clean, efficient code. I have a good understanding of (HTML, CSS(SASS), and JavaScript). 
 
-✅ Thanks to my teacher [Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/) who taught me all the skills I mentioned. And also thanks [Udemy](https://www.udemy.com/). br/>
+✅ Thanks to my teacher [Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/) who taught me all the skills I mentioned. And also thanks [Udemy](https://www.udemy.com/). <br/>
 ✅ I’m always on the lookout to connect with like-minded individuals and teams where I can contribute, learn, and grow. I want to develop my skills with you guys.
 <hr/>
 
