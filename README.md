@@ -40,22 +40,22 @@
 </div>
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="right">⚡ Stats ⚡</h2>
 
-<div align="left">
+<div align="center">
     
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pH0enix46&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
    
 </div>
 
-<div align="center">
+<div align="right">
     
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pH0enix46&show_icons=true&theme=tokyonight&rank_icon=github&border_radius) 
 
 </div>
 
 
-<div align="center">
+<div align="left">
     
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=pH0enix46&theme=tokyonight)  
     
