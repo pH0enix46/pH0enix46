@@ -40,6 +40,6 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <p><img align="left" width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=ph0enix46&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ph0enix46" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ph0enix46&show_icons=true&locale=en&theme=tokyonight" alt="ph0enix46" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ph0enix46&show_icons=true&locale=en&theme=tokyonight&rank_icon=github&border_radius=10" alt="ph0enix46" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ph0enix46&&theme=tokyonight" alt="ph0enix46" /></p>
 <hr/>
