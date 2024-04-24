@@ -6,22 +6,21 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋+I'm+MD+JOY;" />
 </h1>
+<h2 align="center">Passionate Frontend Developer | HTML, CSS(SASS), JavaScript</h2>
+<hr/>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<div align="left">
+    
+🌱 I’m currently learning **Advanced JavaScript**
 
-<br/>
+👨‍💻 All of my projects are available at [https://www.linkedin.com/in/mdjoy46/](https://www.linkedin.com/in/mdjoy46/)
 
-<div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+💬 Ask me about **HTML, CSS(SASS), JavaScript**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+📫 How to reach me **mdjoy.javascipt@gmail.com**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
- </div>
+⚡ Fun fact **I Love Games😊, my favorite one is NFS**
+</div>
  
 <div align="center"> 
   <a href="mailto:pedro.sales.muniz@gmail.com">
