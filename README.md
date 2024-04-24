@@ -41,8 +41,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <div align=left>
-<img align="left" width=500 src="https://github-readme-stats.vercel.app/api/top-langs?username=ph0enix46&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ph0enix46" />
+<img align="left" width=400 src="https://github-readme-stats.vercel.app/api/top-langs?username=ph0enix46&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ph0enix46" />
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api?username=ph0enix46&show_icons=true&locale=en&theme=tokyonight" alt="ph0enix46" />
-<img align="center" width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=ph0enix46&&theme=tokyonight" alt="ph0enix46" />
+<img align="center" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=ph0enix46&&theme=tokyonight" alt="ph0enix46" />
 </div>
 <hr/>
