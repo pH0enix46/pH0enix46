@@ -13,11 +13,9 @@
     
 🌱 I’m currently learning **Advanced JavaScript**
 
-👨‍💻 All of my projects are available at **[https://www.linkedin.com/in/mdjoy46/](https://www.linkedin.com/in/mdjoy46/)**
-
 💬 Ask me about **HTML, CSS(SASS), JavaScript**
 
-📫 How to reach me **mdjoy.javascipt@gmail.com**
+📫 How to reach me **[Linkedin](https://www.linkedin.com/in/mdjoy46/)**
 
 ⚡ Fun fact **I Love Games😊, my favorite one is NFS**
 
