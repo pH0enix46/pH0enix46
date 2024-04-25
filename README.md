@@ -15,11 +15,14 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3>🚀 About me</h3>
-✅ Hey, I’m a web developer with a solid foundation in FRONT-END development<br/> 
-✅ I believe in clean, efficient code. I have a good understanding of --💛JAVASCRIPT💛<br/> 
+<b>✅ 𝝜𝗲𝝲, 𝗜’𝗺 𝗮 𝞈𝗲𝗯 𝗱𝗲𝝼𝗲𝗹𝝾𝗽𝗲𝗿 𝞈𝗶𝘁𝗵 𝗮 𝘀𝝾𝗹𝗶𝗱 𝗳𝝾𝘂𝗻𝗱𝗮𝘁𝗶𝝾𝗻 𝗶𝗻 𝗙𝗥𝟬𝝢𝗧-𝝚𝝢𝗗 𝗱𝗲𝝼𝗲𝗹𝝾𝗽𝗺𝗲𝗻𝘁</b>
+<br/>
+<b>✅ 𝗜 𝗯𝗲𝗹𝗶𝗲𝝼𝗲 𝗶𝗻 𝗰𝗹𝗲𝗮𝗻, 𝗲𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝘁 𝗰𝝾𝗱𝗲. 𝗜 𝗵𝗮𝝼𝗲 𝗮 𝗴𝝾𝝾𝗱 𝘂𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱𝗶𝗻𝗴 𝝾𝗳 --💛Ꭻ𝗔𝗩𝗔𝗦𝗖𝗥𝗜𝝦𝗧💛</b>
+<br/>
 
-✅ Thanks to my teacher [Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/) who taught me all the skills I mentioned. And also thanks [Udemy](https://www.udemy.com/)<br/>
-✅ I’m always on the lookout to connect with like-minded individuals and teams where I can contribute, learn, and grow
+<b>✅ 𝗧𝗵𝗮𝗻𝗸𝘀 𝘁𝝾 𝗺𝝲 𝘁𝗲𝗮𝗰𝗵𝗲𝗿 [Ꭻ𝝾𝗻𝗮𝘀 𝗦𝗰𝗵𝗺𝗲𝗱𝘁𝗺𝗮𝗻𝗻](https://www.udemy.com/user/jonasschmedtmann/) 𝞈𝗵𝝾 𝘁𝗮𝘂𝗴𝗵𝘁 𝗺𝗲 𝗮𝗹𝗹 𝘁𝗵𝗲 𝘀𝗸𝗶𝗹𝗹𝘀 𝗜 𝗺𝗲𝗻𝘁𝗶𝝾𝗻𝗲𝗱. 𝗔𝗻𝗱 𝗮𝗹𝘀𝝾 𝘁𝗵𝗮𝗻𝗸𝘀 [𝞄𝗱𝗲𝗺𝝲](https://www.udemy.com/)</b>
+<br/>
+<b>✅ 𝗜’𝗺 𝗮𝗹𝞈𝗮𝝲𝘀 𝝾𝗻 𝘁𝗵𝗲 𝗹𝝾𝝾𝗸𝝾𝘂𝘁 𝘁𝝾 𝗰𝝾𝗻𝗻𝗲𝗰𝘁 𝞈𝗶𝘁𝗵 𝗹𝗶𝗸𝗲-𝗺𝗶𝗻𝗱𝗲𝗱 𝗶𝗻𝗱𝗶𝝼𝗶𝗱𝘂𝗮𝗹𝘀 𝗮𝗻𝗱 𝘁𝗲𝗮𝗺𝘀 𝞈𝗵𝗲𝗿𝗲 𝗜 𝗰𝗮𝗻 𝗰𝝾𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗲, 𝗹𝗲𝗮𝗿𝗻, 𝗮𝗻𝗱 𝗴𝗿𝝾𝞈 <b/>
 <hr/>
 
 <div align="left">
