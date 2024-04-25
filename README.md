@@ -5,10 +5,15 @@
 <br/>
 <br/>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋+I'm+MD+JOY;" />
-</h1>
-<h1 align="center">Passionate Frontend Developer | JavaScript</h1>
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;">
+<h1 align="center">𝗵𝗲𝗹𝗹𝝾! 𝗴𝘂𝝲𝘀 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium%20Skin%20Tone.png" alt="Waving Hand Medium Skin Tone" width="35" height="35" /> 𝗜'𝗺 𝗺𝗱 ᒍ𝝾𝝲 <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%></h1>
+<h3 align="center">
+      <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+    𝝦𝗮𝘀𝘀𝗶𝝾𝗻𝗮𝘁𝗲 𝗙𝗿𝝾𝗻𝘁𝗲𝗻𝗱 𝗗𝗲𝝼𝗲𝗹𝝾𝗽𝗲𝗿 | Ꭻ𝗮𝝼𝗮𝗦𝗰𝗿𝗶𝗽𝘁
+      <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h3>🚀 About me</h3>
 ✅ Hey, I’m a web developer with a solid foundation in FRONT-END development<br/> 
 ✅ I believe in clean, efficient code. I have a good understanding of --💛JAVASCRIPT💛<br/> 
@@ -52,3 +57,8 @@
 
 </div>
 <hr/>
+
+
+
+
+
