@@ -1,3 +1,6 @@
+<!-- ❗❗❗ Don't copy mine, create your own. But you can take my ideas from here if you want -->
+<!-- ✅ made by pH0enix46(MD JOY) -->
+
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <br/>
 <br/>
@@ -44,7 +47,8 @@
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pH0enix46&theme=tokyonight&size_weight=0.5&count_weight=0.5&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) 
-  
-</div>
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=pH0enix46&theme=highcontrast&hide_border=false) 
+
+</div>
 <hr/>
