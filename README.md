@@ -17,9 +17,9 @@
 
 <div align="left">
     
-📫 How to reach me--- **[Linkedin](https://www.linkedin.com/in/mdjoy46/)**
+📫 How to reach me -- **[Linkedin](https://www.linkedin.com/in/mdjoy46/)**
 
-⚡ Fun fact--- **I Love Games😊, my favorite one is NFS**
+⚡ Fun fact -- **I Love Games😊, my favorite one is NFS**
 
 </div>
 <hr/>
