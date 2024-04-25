@@ -46,9 +46,9 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pH0enix46&theme=tokyonight&size_weight=0.5&count_weight=0.5&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pH0enix46&theme=ayu-mirage&size_weight=0.5&count_weight=0.5&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=pH0enix46&theme=highcontrast&hide_border=false) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=pH0enix46&theme=ayu-mirage&hide_border=false)
 
 </div>
 <hr/>
