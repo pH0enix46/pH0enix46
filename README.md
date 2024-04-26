@@ -55,4 +55,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pH0enix46&theme=ayu-mirage&hide_border=false)
 
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=30:7812f8,100:00D8FF&height=80&section=footer"/>
+</p>
