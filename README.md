@@ -45,7 +45,7 @@
 </div>
 <hr/>
 
-<h2 align="center">𝗚𝗶𝘁𝝜𝘂𝗯 𝗦𝗧𝗔𝗧𝗦</h2>
+<h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" > 𝗚𝗶𝘁𝝜𝘂𝗯 𝗦𝗧𝗔𝗧𝗦</h2>
 
 <div align="center">
 
