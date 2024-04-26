@@ -30,7 +30,7 @@
 <hr/>
 
 
-<h3 align="center">𝗖𝝾𝗻𝗻𝗲𝗰𝘁 𝞈𝗶𝘁𝗵 𝗺𝗲<img  src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/handshake.gif" width="60"/></h3>
+<h2 align="center">𝗖𝝾𝗻𝗻𝗲𝗰𝘁 𝞈𝗶𝘁𝗵 𝗺𝗲<img  src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/handshake.gif" width="60"/></h2>
 <p align="center">
 <a href="https://twitter.com/mdjoy4646" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdjoy4646" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mdjoy46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdjoy46" height="30" width="40" /></a>
@@ -39,14 +39,13 @@
 <hr/>
  
 <h2 align="center"><img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 4.5%> 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀-𝗙𝗿𝗮𝗺𝗲𝞈𝝾𝗿𝗸𝘀-𝗧𝝾𝝾𝗹𝘀</h2>
-<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,sass,github,git,vscode" />
     <img src="https://skillicons.dev/icons?i=javascript" /><br>
 </div>
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">𝗚𝗶𝘁𝝜𝘂𝗯 𝗦𝗧𝗔𝗧𝗦</h2>
 
 <div align="center">
 
