@@ -9,7 +9,7 @@
 <h1 align="center">𝗵𝗲𝗹𝗹𝝾! 𝗴𝘂𝝲𝘀 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium%20Skin%20Tone.png" alt="Waving Hand Medium Skin Tone" width="35" height="35" /> 𝗜'𝗺 𝗺𝗱 ᒍ𝝾𝝲 <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%></h1>
 <h3 align="center">
       <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-    𝝦𝗮𝘀𝘀𝗶𝝾𝗻𝗮𝘁𝗲 𝗙𝗿𝝾𝗻𝘁𝗲𝗻𝗱 𝗗𝗲𝝼𝗲𝗹𝝾𝗽𝗲𝗿 | Ꭻ𝗔𝗩𝗔𝗦𝗖𝗥𝗜𝝦𝗧
+    𝝦𝗮𝘀𝘀𝗶𝝾𝗻𝗮𝘁𝗲 𝗙𝗿𝝾𝗻𝘁𝗲𝗻𝗱 𝗗𝗲𝝼𝗲𝗹𝝾𝗽𝗲𝗿 | ᒍ𝗔𝗩𝗔𝗦𝗖𝗥𝗜𝝦𝗧
       <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 </h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -17,7 +17,7 @@
 <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="30" height="30"> 𝗔𝝗𝟬𝗨𝗧 𝗠𝝚</h3>
 <b>✅ 𝝜𝗲𝝲, 𝗜’𝗺 𝗮 𝞈𝗲𝗯 𝗱𝗲𝝼𝗲𝗹𝝾𝗽𝗲𝗿 𝞈𝗶𝘁𝗵 𝗮 𝘀𝝾𝗹𝗶𝗱 𝗳𝝾𝘂𝗻𝗱𝗮𝘁𝗶𝝾𝗻 𝗶𝗻 𝗙𝗥𝟬𝝢𝗧-𝝚𝝢𝗗 𝗱𝗲𝝼𝗲𝗹𝝾𝗽𝗺𝗲𝗻𝘁</b>
 <br/>
-<b>✅ 𝗜 𝗯𝗲𝗹𝗶𝗲𝝼𝗲 𝗶𝗻 𝗰𝗹𝗲𝗮𝗻, 𝗲𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝘁 𝗰𝝾𝗱𝗲. 𝗜 𝗵𝗮𝝼𝗲 𝗮 𝗴𝝾𝝾𝗱 𝘂𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱𝗶𝗻𝗴 𝝾𝗳 --💛Ꭻ𝗔𝗩𝗔𝗦𝗖𝗥𝗜𝝦𝗧💛</b>
+<b>✅ 𝗜 𝗯𝗲𝗹𝗶𝗲𝝼𝗲 𝗶𝗻 𝗰𝗹𝗲𝗮𝗻, 𝗲𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝘁 𝗰𝝾𝗱𝗲. 𝗜 𝗵𝗮𝝼𝗲 𝗮 𝗴𝝾𝝾𝗱 𝘂𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱𝗶𝗻𝗴 𝝾𝗳 --💛ᒍ𝗔𝗩𝗔𝗦𝗖𝗥𝗜𝝦𝗧💛</b>
 <br/>
 
 <b>✅ 𝗧𝗵𝗮𝗻𝗸𝘀 𝘁𝝾 𝗺𝝲 𝘁𝗲𝗮𝗰𝗵𝗲𝗿 [Ꭻ𝝾𝗻𝗮𝘀 𝗦𝗰𝗵𝗺𝗲𝗱𝘁𝗺𝗮𝗻𝗻](https://www.udemy.com/user/jonasschmedtmann/) 𝞈𝗵𝝾 𝘁𝗮𝘂𝗴𝗵𝘁 𝗺𝗲 𝗮𝗹𝗹 𝘁𝗵𝗲 𝘀𝗸𝗶𝗹𝗹𝘀 𝗜 𝗺𝗲𝗻𝘁𝗶𝝾𝗻𝗲𝗱. 𝗔𝗻𝗱 𝗮𝗹𝘀𝝾 𝘁𝗵𝗮𝗻𝗸𝘀 [𝞄𝗱𝗲𝗺𝝲](https://www.udemy.com/)</b>
