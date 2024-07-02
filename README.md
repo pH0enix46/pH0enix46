@@ -28,7 +28,7 @@
 <br/>
 <b>📫 𝝜𝝾𝞈 𝘁𝝾 𝗿𝗲𝗮𝗰𝗵 𝗺𝗲 -- [𝗟𝗶𝗻𝗸𝗲𝗱𝗶𝗻](https://www.linkedin.com/in/mdjoy46/) <b/>
 <br/>
-<b>😸 𝗙𝘂𝗻 𝗳𝗮𝗰𝘁 -- 𝗜 𝗟𝝾𝝼𝗲 𝗚𝗮𝗺𝗲𝘀😊, 𝗺𝝲 𝗳𝗮𝝼𝝾𝗿𝗶𝘁𝗲 𝝾𝗻𝗲 𝗶𝘀 𝝢𝗙𝗦 <b/>
+<b>😸 𝗙𝘂𝗻 𝗳𝗮𝗰𝘁 -- 𝗜 𝗟𝝾𝝼𝗲 𝗚𝗮𝗺𝗲𝘀, 𝗳𝝾𝝾𝗱, 𝗮𝗻𝗱 𝐭𝗿𝗮𝝼𝗲𝗹𝗶𝗻𝗴 <b/>
 <br/>
 <b>🎶 𝗟𝗶𝘀𝘁𝗲𝗻 𝘁𝝾 𝗺𝝲 𝗳𝗮𝝼𝝾𝗿𝗶𝘁𝗲 𝘀𝝾𝗻𝗴 𝗶𝗳 𝝲𝝾𝞄 𝗵𝗮𝝼𝗲 𝘁𝗶𝗺𝗲 [𝗵𝗲𝗿𝗲](https://www.youtube.com/watch?v=wK5tjbFrBqs&ab_channel=DanishPalacios) <b/>
 <hr/>
