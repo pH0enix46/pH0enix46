@@ -35,7 +35,7 @@
 <hr/>
 
 
-<h2 align="center">𝗖𝝾𝗻𝗻𝗲𝗰𝘁 𝞈𝗶𝘁𝗵 𝗺𝗲<img src="https://usagif.com/wp-content/uploads/handshake.gif" width="60"/></h2>
+<h2 align="center">𝗖𝝾𝗻𝗻𝗲𝗰𝘁 𝞈𝗶𝘁𝗵 𝗺𝗲<img src="https://tenor.com/fa4uZ65Oylh.gif" width="60"/></h2>
 <p align="center">
 <a href="https://twitter.com/mdjoy4646" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdjoy4646" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mdjoy46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdjoy46" height="30" width="40" /></a>
