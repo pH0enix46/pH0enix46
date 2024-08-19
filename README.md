@@ -47,6 +47,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,github,git" />
     <img src="https://skillicons.dev/icons?i=vscode,javascript" /><br>
+    <img src="https://avatars.githubusercontent.com/u/76870092?s=200&v=4" width="60" height="60" />
 </div>
 <hr/>
 
