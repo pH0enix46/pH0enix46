@@ -52,13 +52,11 @@
 </div>
 <hr/>
 
-<h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" > 𝗚𝗶𝘁𝝜𝘂𝗯 𝗦𝗧𝗔𝗧𝗦</h2>
+<h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" > 𝗟𝗮𝗻𝗴𝞄𝗮𝗴𝗲𝘀 𝗦𝗧𝗔𝗧𝗦</h2>
 
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pH0enix46&theme=ayu-mirage&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=pH0enix46&theme=ayu-mirage&hide_border=false)
 
 </div>
 <p align="center">
