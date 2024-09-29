@@ -14,7 +14,7 @@
 </h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Revolving%20Hearts.webp" alt="Revolving Hearts" width="35" height="35" /> 𝗔𝝗𝝤𝗨𝗧 𝗠𝝚</h2>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Magic%20Wand.webp" alt="Magic Wand" width="45" height="45" />𝗔𝝗𝝤𝗨𝗧 𝗠𝝚</h2>
 <b>✅ 𝝜𝗲𝝲, 𝗜’𝗺 𝗮 𝞈𝗲𝗯 𝗱𝗲𝝼𝗲𝗹𝝾𝗽𝗲𝗿 𝞈𝗶𝘁𝗵 𝗮 𝘀𝝾𝗹𝗶𝗱 𝗙𝝾𝘂𝗻𝗱𝗮𝘁𝗶𝝾𝗻 𝗶𝗻 𝗙𝗥𝟬𝝢𝗧-𝝚𝝢𝗗 𝗱𝗲𝝼𝗲𝗹𝝾𝗽𝗺𝗲𝗻𝘁</b>
 <br/>
 <b>✅ 𝗜'𝗺 𝗙𝝾𝗰𝞄𝘀𝗶𝗻𝗴 𝝾𝗻 --𝗠𝗘𝗥𝝢 𝗦𝘁𝗮𝗰𝗸, --𝗗𝗦𝝖 𝗮𝗻𝗱 𝘀𝝾𝝞𝝼𝗶𝗻𝗴 --𝗟𝗲𝗲𝘁𝗖𝝾𝗱𝗲 𝗰𝗵𝗮𝝞𝝞𝗲𝗻𝗴𝗲𝘀</b>
@@ -33,7 +33,7 @@
 <b>🎵 𝗟𝗶𝘀𝘁𝗲𝗻 𝘁𝝾 𝗺𝝲 𝗙𝗮𝝼𝝾𝗿𝗶𝘁𝗲 𝘀𝝾𝗻𝗴 𝗶𝗳 𝝲𝝾𝞄 𝗵𝗮𝝼𝗲 𝘁𝗶𝗺𝗲 [𝗵𝗲𝗿𝗲](https://www.youtube.com/watch?v=wK5tjbFrBqs&ab_channel=DanishPalacios) <b/>
 <br/>
 <br/>
-<b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/White%20Exclamation%20Mark.webp" alt="White Exclamation Mark" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="45" height="45" />𝝦𝗟𝗘𝝖𝗦𝗘 𝗥𝗘𝝖𝗗<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="45" height="45" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/White%20Exclamation%20Mark.webp" alt="White Exclamation Mark" width="25" height="25" /> 𝗖𝗵𝗲𝗰𝗸 𝝾𝞄𝘁 𝗺𝝲 𝗚𝗶𝘁𝗛𝞄𝗯 𝗦𝘁𝗮𝗿𝘀<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="25" height="25" />, 𝗯𝗲𝗰𝗮𝞄𝘀𝗲 𝗜 𝗵𝗮𝝼𝗲 𝗱𝗶𝝼𝗶𝗱𝗲𝗱 𝗮𝗹𝗹 𝗺𝝲 𝗿𝗲𝗽𝝾𝘀𝗶𝘁𝝾𝗿𝗶𝗲𝘀 𝗻𝗶𝗰𝗲𝗹𝝲 𝗶𝗻𝘁𝝾 𝘀𝗲𝗽𝗮𝗿𝗮𝘁𝗲𝗱 𝗽𝗮𝗿𝘁𝘀 𝘀𝝾 𝘁𝗵𝗮𝘁 𝗶𝘁'𝘀 𝗲𝗮𝘀𝝲 𝗳𝝾𝗿 𝝲𝝾𝞄 𝘁𝝾 𝞄𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱 𝗮𝗻𝗱 𝗮𝗹𝘀𝝾 𝗰𝗵𝗲𝗰𝗸 𝘁𝗵𝗲 𝗰𝝾𝗱𝗲 <b/>
+<b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/White%20Exclamation%20Mark.webp" alt="White Exclamation Mark" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="45" height="45" />𝝦𝗟𝗘𝝖𝗦𝗘 𝗥𝗘𝝖𝗗<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="45" height="45" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/White%20Exclamation%20Mark.webp" alt="White Exclamation Mark" width="25" height="25" /> 𝗖𝗵𝗲𝗰𝗸 𝝾𝞄𝘁 𝗺𝝲 𝗚𝗶𝘁𝗛𝞄𝗯 𝗦𝗧𝝖𝗥𝗦<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="25" height="25" />, 𝗯𝗲𝗰𝗮𝞄𝘀𝗲 𝗜 𝗵𝗮𝝼𝗲 𝗱𝗶𝝼𝗶𝗱𝗲𝗱 𝗮𝗹𝗹 𝗺𝝲 𝗿𝗲𝗽𝝾𝘀𝗶𝘁𝝾𝗿𝗶𝗲𝘀 𝗻𝗶𝗰𝗲𝗹𝝲 𝗶𝗻𝘁𝝾 𝘀𝗲𝗽𝗮𝗿𝗮𝘁𝗲𝗱 𝗽𝗮𝗿𝘁𝘀 𝘀𝝾 𝘁𝗵𝗮𝘁 𝗶𝘁'𝘀 𝗲𝗮𝘀𝝲 𝗳𝝾𝗿 𝝲𝝾𝞄 𝘁𝝾 𝞄𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱 𝗮𝗻𝗱 𝗮𝗹𝘀𝝾 𝗰𝗵𝗲𝗰𝗸 𝘁𝗵𝗲 𝗰𝝾𝗱𝗲 <b/>
 <hr/>
 
 <h2 align="center">𝗖𝝾𝗻𝗻𝗲𝗰𝘁 𝞈𝗶𝘁𝗵 𝗺𝗲<img 
