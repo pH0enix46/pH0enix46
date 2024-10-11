@@ -1,5 +1,6 @@
-<!-- ❗❗❗ Don't copy mine, create your own. But you can take my ideas from here if you want -->
-<!-- ✅ made by pH0enix46(MD JOY) -->
+<!-- ❗❗❗❗❗❗❗❗❗ Don't copy mine, create your own ❗❗❗❗❗❗❗❗❗ -->
+<!-- ⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️❗❗❗❗❗❗❗❗❗ If you copy me! you will be hacked ❗❗❗❗❗❗❗❗❗⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️ -->
+<!-- ✅✅✅✅✅✅ made by pH0enix46(MD JOY) -->
 
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <br/>
