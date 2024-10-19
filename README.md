@@ -37,7 +37,7 @@
 <h2 align="center"><img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 4.8%> 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀-𝗙𝗿𝗮𝗺𝗲𝞈𝝾𝗿𝗸𝘀-𝗧𝝾𝝾𝗹𝘀</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,github,git" />
-    <img src="https://skillicons.dev/icons?i=vscode,javascript,babel,react" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,javascript,babel,react,vite" /><br>
 </div>
 <hr/>
 
