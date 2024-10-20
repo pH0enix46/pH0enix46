@@ -37,7 +37,7 @@
 <h2 align="center"><img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 4.8%> 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀-𝗙𝗿𝗮𝗺𝗲𝞈𝝾𝗿𝗸𝘀-𝗧𝝾𝝾𝗹𝘀</h2>
 <div align="center">
       
- [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,sass,github,git,vscode,md,babel,vite,javascript,react&perline=10)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,sass,github,git,vscode,md,babel,vite,javascript,react)](https://skillicons.dev) <img src="https://raw.githubusercontent.com/sakibweb/skill-icons/main/icons/Daisyui-Dark.svg" width="50" height="50" >
  
 </div>
 <hr/>
@@ -46,7 +46,7 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pH0enix46&theme=ayu-mirage&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pH0enix46&theme=ayu-mirage&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
