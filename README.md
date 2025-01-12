@@ -8,11 +8,11 @@
 <h1 align="center">𝗵𝗲𝗹𝗹𝝾! 𝗴𝘂𝝲𝘀 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium%20Skin%20Tone.png" alt="Waving Hand Medium Skin Tone" width="35" height="35" /> 𝗜'𝗺 𝗺𝗱 𝗝𝝾𝝲 <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%></h1>
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Magic%20Wand.webp" alt="Magic Wand" width="45" height="45" />𝗔𝝗𝝤𝗨𝗧 𝗠𝝚</h2>
-<b>✅ 𝝜𝗲𝝲, 𝗜’𝗺 𝗮 𝞈𝗲𝗯 𝗱𝗲𝝼𝗲𝗹𝝾𝗽𝗲𝗿 𝞈𝗶𝘁𝗵 𝗮 𝘀𝝾𝗹𝗶𝗱 𝗙𝝾𝘂𝗻𝗱𝗮𝘁𝗶𝝾𝗻 𝗶𝗻 𝗙𝗥𝟬𝝢𝗧-𝝚𝝢𝗗 𝗱𝗲𝝼𝗲𝗹𝝾𝗽𝗺𝗲𝗻𝘁</b>
+<b>✅ 𝝜𝗲𝝲, 𝗜’𝗺 𝗮 𝞈𝗲𝗯 𝗱𝗲𝝼𝗲𝗹𝝾𝗽𝗲𝗿 𝞈𝗶𝘁𝗵 𝗮 𝘀𝝾𝗹𝗶𝗱 𝗙𝝾𝘂𝗻𝗱𝗮𝘁𝗶𝝾𝗻 𝗶𝗻 💛 𝗝𝗔𝗩𝗔𝗦𝗖𝗥𝗜𝝦𝗧</b>
 <br/>
 <b>✅ 𝗜’𝗺 𝗮 𝗖𝗦𝗘 𝘀𝘁𝞄𝗱𝗲𝗻𝘁, 𝗖𝞄𝗿𝗿𝗲𝗻𝘁𝝞𝝲 𝗳𝗼𝗰𝘂𝘀𝗶𝗻𝗴 𝗼𝗻 –𝗠𝗘𝗥𝗡 𝗦𝘁𝗮𝗰𝗸, –𝗗𝗦𝗔, 𝗮𝗻𝗱 𝘀𝗼𝝞𝝼𝗶𝗻𝗴 –𝗟𝗲𝗲𝘁𝗖𝗼𝗱𝗲 𝗰𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲𝘀</b>
 <br/>
-<b>✅ 𝗜 𝗵𝗮𝝼𝗲 𝗮 𝗴𝝾𝝾𝗱 𝘂𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱𝗶𝗻𝗴 𝝾𝗳 –– 💛 𝗝𝗔𝗩𝗔𝗦𝗖𝗥𝗜𝝦𝗧 & 𝗥𝗘𝝖𝗖𝝩 💙</b>
+<b>✅ 𝗜 𝗵𝗮𝝼𝗲 𝗮 𝗴𝝾𝝾𝗱 𝘂𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱𝗶𝗻𝗴 𝝾𝗳 – 💞 𝗙𝞄𝝞𝝞 𝗦𝘁𝗮𝗰𝗸 𝞈𝗲𝗯 𝗱𝗲𝝼𝗲𝝞𝗼𝗽𝗺𝗲𝗻𝘁</b>
 <br/>
 
 <b>✅ 𝗧𝗵𝗮𝗻𝗸𝘀 𝘁𝝾 𝗺𝝲 𝘁𝗲𝗮𝗰𝗵𝗲𝗿 [𝗝𝝾𝗻𝗮𝘀 𝗦𝗰𝗵𝗺𝗲𝗱𝘁𝗺𝗮𝗻𝗻](https://www.udemy.com/user/jonasschmedtmann/). 𝗔𝗻𝗱 𝗮𝗹𝘀𝝾 𝘁𝗵𝗮𝗻𝗸𝘀 [𝗨𝗗𝝚𝝡𝝪](https://www.udemy.com/)</b>
