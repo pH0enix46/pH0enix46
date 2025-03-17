@@ -2,11 +2,6 @@
 <!-- ⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️❗❗❗❗❗❗❗❗❗ If you copy me! you will be hacked ❗❗❗❗❗❗❗❗❗⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️ -->
 <!-- ✅✅✅✅✅✅ made by pH0enix46(MD JOY) -->
 
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-<br/>
-
-<h1 align="center">𝗛𝗲𝗹𝗹𝝾! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium%20Skin%20Tone.png" alt="Waving Hand Medium Skin Tone" width="35" height="35" /> 𝗜'𝗺 𝗺𝗱 𝗝𝝾𝝲 <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%></h1>
-
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Magic%20Wand.webp" alt="Magic Wand" width="45" height="45" />𝗔𝝗𝝤𝗨𝗧 𝗠𝝚</h2>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
