@@ -3,7 +3,7 @@
 <!-- ✅✅✅✅✅✅ made by pH0enix46(MD JOY) -->
 
 <div align="center">
-<h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Magic%20Wand.webp" alt="Magic Wand" width="45" height="45" /> 𝝢𝗘𝝬𝝩.𝗝𝗦 𝗗𝗲𝝼𝗲𝝞𝗼𝗽𝗲𝗿 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Magic%20Wand.webp" alt="Magic Wand" width="45" height="45" /></h1>
+<h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Magic%20Wand.webp" alt="Magic Wand" width="45" height="45" /> 𝗠𝗘𝗥𝝢 ￨ 𝝢𝗘𝝬𝝩.𝗝𝗦 𝗗𝗲𝝼𝗲𝝞𝗼𝗽𝗲𝗿 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Magic%20Wand.webp" alt="Magic Wand" width="45" height="45" /></h1>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
