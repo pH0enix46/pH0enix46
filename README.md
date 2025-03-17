@@ -2,9 +2,8 @@
 <!-- ⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️❗❗❗❗❗❗❗❗❗ If you copy me! you will be hacked ❗❗❗❗❗❗❗❗❗⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️ -->
 <!-- ✅✅✅✅✅✅ made by pH0enix46(MD JOY) -->
 
-<div align="center">
-<h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Magic%20Wand.webp" alt="Magic Wand" width="45" height="45" /> 𝗠𝗘𝗥𝝢 ￨ 𝝢𝗘𝝬𝝩.𝗝𝗦 𝗗𝗲𝝼𝗲𝝞𝗼𝗽𝗲𝗿 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Magic%20Wand.webp" alt="Magic Wand" width="45" height="45" /></h1>
-</div>
+<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Magic%20Wand.webp" alt="Magic Wand" width="45" height="45" /><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%2300987A&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=𝗠𝗘𝗥𝝢 ￨ 𝝢𝗘𝝬𝝩.𝗝𝗦 𝗗𝗲𝝼𝗲𝝞𝗼𝗽𝗲𝗿;𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗗𝗲𝝼𝗲𝝞𝗼𝗽𝗲𝗿;𝗣𝗿𝗼𝗯𝝞𝗲𝗺 𝗦𝗼𝝞𝝼𝗲𝗿" width="auto" height="60" alt="Typing"/><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Magic%20Wand.webp" alt="Magic Wand" width="45" height="45" />
+</h1>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
