@@ -18,7 +18,7 @@
  <a href="https://ph0enix46-portfolio.vercel.app/" target="_blank"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Light%20Bulb.webp" alt="Light Bulb" width="45" height="45" />𝗠𝝲 𝞈𝗲𝗯𝘀𝗶𝘁𝗲</a>
 </h1>
  
-<h2 align="center"><img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 4.8%> 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀-𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀-𝗙𝗿𝗮𝗺𝗲𝞈𝝾𝗿𝗸𝘀-𝗧𝝾𝝾𝗹𝘀 <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 4.8%></h2>
+<h2 align="center"><img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 4.8%> 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀 𝗙𝗿𝗮𝗺𝗲𝞈𝝾𝗿𝗸𝘀 𝗧𝝾𝝾𝗹𝘀 <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 4.8%></h2>
 
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
