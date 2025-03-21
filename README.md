@@ -22,7 +22,7 @@
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=javascript,tailwindcss,react,stripe,nextjs,nodejs,expressjs,mongodb,supabase,typescript&theme=light"
+      src="https://go-skill-icons.vercel.app/api/icons?i=javascript,tailwindcss,styledcomponents,react,stripe,nextjs,nodejs,expressjs,mongodb,supabase,typescript&theme=light"
     />
   </a>
 </p>
