@@ -2,11 +2,6 @@
 <!-- ⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️❗❗❗❗❗❗❗❗❗ If you copy me! you will be hacked ❗❗❗❗❗❗❗❗❗⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️ -->
 <!-- ✅✅✅✅✅✅ made by pH0enix46(MD JOY) -->
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Magic%20Wand.webp" alt="Magic Wand" width="60" height="60" />
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=3500&color=%2300987A&lines=𝗥𝗘𝝖𝗖𝝩+￨+𝝢𝗘𝝬𝝩.𝗝𝗦+￨+𝗦𝗨𝗣𝝖𝗕𝝖𝗦𝗘;𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲+𝗙𝞄𝝞𝝞+𝗦𝘁𝗮𝗰𝗸+𝗗𝗲𝝼𝗲𝝞𝗼𝗽𝗲𝗿;𝗣𝗿𝗼𝗯𝝞𝗲𝗺+𝗦𝗼𝝞𝝼𝗲𝗿" />
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Magic%20Wand.webp" alt="Magic Wand" width="60" height="60" />
-</h1>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ![MasterHead](https://github.com/pH0enix46/my-PorTFolio---V1/blob/main/public/img/pH0enix--LIFE.png)
