@@ -19,7 +19,7 @@
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=tailwindcss,javascript,typescript,react,nextjs,nodejs,expressjs,supabase,postgresql,prisma,stripe&theme=light"
+      src="https://go-skill-icons.vercel.app/api/icons?i=tailwindcss,javascript,typescript,react,nextjs,nodejs,expressjs,supabase,postgresql,prisma,mongodb,mongoose,stripe&theme=light"
     />
   </a>
 </p>
