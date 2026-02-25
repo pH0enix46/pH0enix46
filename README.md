@@ -4,7 +4,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![MasterHead](https://scontent.fdac31-2.fna.fbcdn.net/v/t39.30808-6/482224906_638597315561594_1528303292087252695_n.png?_nc_cat=108&ccb=1-7&_nc_sid=2a1932&_nc_ohc=eWgZKR1QEa4Q7kNvwEm2TCa&_nc_oc=AdlTJkeOFdNiGG8lbRJvtJHNgYWnf1kYpYGFFGmTnASELNHTekKhOPKsPhkNpGr2ezs&_nc_zt=23&_nc_ht=scontent.fdac31-2.fna&_nc_gid=JqgT0AOByMGp4HA7BOdOQg&oh=00_AfsQst6GMirBoJXdU1LPCwtbTaIsrNjhDo0qwLM0BkWm9g&oe=69A06826)
+![MasterHead](https://raw.githubusercontent.com/pH0enix46/DESIGN/refs/heads/main/public/code-with-spiderman.png?token=GHSAT0AAAAAACU25OEZBA54OKXYR7PQKULE2M7OQ7Q)
 <br/>
 <h3><b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/White%20Exclamation%20Mark.webp" alt="White Exclamation Mark" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="45" height="45" />𝝦𝗟𝗘𝝖𝗦𝗘 𝗥𝗘𝝖𝗗<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="45" height="45" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/White%20Exclamation%20Mark.webp" alt="White Exclamation Mark" width="25" height="25" /> 𝗜 𝗺𝗮𝝲 𝗯𝗲 𝗮 𝗯𝗶𝘁 𝗼𝗳 𝗮𝗻 𝗮𝘀𝘀𝗵𝗼𝝞𝗲<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Disguised%20Face.webp" alt="Dizzy" width="25" height="25" />, 𝗯𝞄𝘁 𝗜 𝗯𝞄𝗶𝝞𝗱 𝗱𝗮𝗺𝗻 𝗴𝗼𝗼𝗱 𝘀𝗼𝗳𝘁𝞈𝗮𝗿𝗲 — 𝘀𝗲𝗿𝗶𝗼𝞄𝘀𝝞𝝲 <b/></h3>
 <hr/>
