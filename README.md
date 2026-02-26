@@ -14,7 +14,7 @@
  <a href="https://ph0enix.vercel.app/" target="_blank"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Briefcase.webp" alt="Briefcase" width="50" height="50" /> `𝗩𝗜𝗦𝗜𝝩 𝗠𝝪 𝗪𝗘𝗕𝗦𝗜𝝩𝗘</a>
 </h1>
  
-<h2 align="center"><img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 4.8%> 𝗖𝗼𝗿𝗲 𝝩𝗲𝗰𝗵𝗻𝗼𝝞𝗼𝗴𝝲 <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 4.8%></h2>
+<h2 align="center"><img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 4.8%> 𝗖𝗼𝗿𝗲 𝗛𝗶𝗴𝗵 𝗦𝘁𝗮𝗻𝗱𝗮𝗿𝗱 𝝩𝗲𝗰𝗵𝗻𝗼𝝞𝗼𝗴𝝲 <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 4.8%></h2>
 
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
